@@ -1,36 +1,37 @@
 {
     "certifications": [
         {
-            "title": "Foundation of Project Management",
-            "image": "https://img.freepik.com/free-vector/elegant-blue-gold-diploma-certificate-template_1017-17257.jpg?t=st=1717988355~exp=1717991955~hmac=764d28385f633ca366aea6f36203b225311f4ad1a22e3b0a1b1b4d9c3a99eef8&w=1380",
-            "bodyText": "Google - 2021", 
-        
-            "credentialUrl": "https://linkhere.com"
+            "title": "IT support professional",
+            "image": "https://courses.sudancareer.com/wp-content/uploads/2021/03/Google-IT-Support-Professional-Certificate.png",
+            "bodyText": "Google", 
+            "credentialUrl": "https://coursera.org/share/ecfd23acf0ffbcba8cb8aec554c5e41f"
         },
         {
-            "title": "Meta Front-End Developer",
-            "image": "https://img.freepik.com/free-vector/elegant-blue-gold-diploma-certificate-template_1017-17257.jpg?t=st=1717988355~exp=1717991955~hmac=764d28385f633ca366aea6f36203b225311f4ad1a22e3b0a1b1b4d9c3a99eef8&w=1380",
-            "bodyText": "Meta - 2024",
-        
-            "credentialUrl": "https://linkhere.com"
+            "title": "Applied Cloud Computing",
+            "image": "https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2021/06/03/TCS-AWS-Partners-1-300x150.png",
+            "bodyText": "TCS-ion",
+            "credentialUrl": "https://www.icloud.com/iclouddrive/0beQKbvqxb9PRfCF_vysHmWjw#tcs_ion_cloud_computing"
         },
         {
-            "title": "IBM Full Stack Software Developer Professional Certificate",
-            "image": "https://img.freepik.com/free-vector/elegant-blue-gold-diploma-certificate-template_1017-17257.jpg?t=st=1717988355~exp=1717991955~hmac=764d28385f633ca366aea6f36203b225311f4ad1a22e3b0a1b1b4d9c3a99eef8&w=1380",
-            "bodyText": "IBM - 2024",
-            "credentialUrl": "https://linkhere.com"
+            "title": "Certified DevOps Professional",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3pVwsEmv7w7eALaOGEopiD2-V6K5cGEgp4Q&s",
+            "bodyText": "IBM (3/9)",
+            "credentialUrl": "https://coursera.org/share/4aace21030d6377b92f30dfe69f59254"
         },
         {
-            "title": "Google Advanced Data Analytics",
-            "image": "https://img.freepik.com/free-vector/elegant-blue-gold-diploma-certificate-template_1017-17257.jpg?t=st=1717988355~exp=1717991955~hmac=764d28385f633ca366aea6f36203b225311f4ad1a22e3b0a1b1b4d9c3a99eef8&w=1380",
-            "bodyText": "Google - 2024",
-            "credentialUrl": "https://linkhere.com"
+            "title": "AWS cloud practicioner essentials",
+            "image": "https://media.licdn.com/dms/image/v2/D5622AQGRcoajbcbp_g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1706953093752?e=1744243200&v=beta&t=rKWeF675jvGDZWTlk7KBo-67vK_TT8G3wndJqA5Kdpc",
+            "bodyText": "AWS",
+            "credentialUrl": "https://www.linkedin.com/posts/h44i-prasath_awscertified-cloudcomputing-activity-7159480195928805377-50Pp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-KilQBn_hcaHR3O1WIe6SuJ_bs3opAW3Q"
         },
         {
-            "title": "Fundamentals of AI & ML: Introduction to Artificial Intelligence",
-            "image": "https://img.freepik.com/free-vector/elegant-blue-gold-diploma-certificate-template_1017-17257.jpg?t=st=1717988355~exp=1717991955~hmac=764d28385f633ca366aea6f36203b225311f4ad1a22e3b0a1b1b4d9c3a99eef8&w=1380",
-            "bodyText": "Skillsoft - 2024",
-            "credentialUrl": "https://linkhere.com"
+            "title": "AWS cloud practicioner essentials",
+            "image": "https://media.licdn.com/dms/image/v2/D5622AQGRcoajbcbp_g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1706953093752?e=1744243200&v=beta&t=rKWeF675jvGDZWTlk7KBo-67vK_TT8G3wndJqA5Kdpc",
+            "bodyText": "AWS",
+            "credentialUrl": "https://www.linkedin.com/posts/h44i-prasath_awscertified-cloudcomputing-activity-7159480195928805377-50Pp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-KilQBn_hcaHR3O1WIe6SuJ_bs3opAW3Q"
         }
+       
+       
+       
     ]
 }

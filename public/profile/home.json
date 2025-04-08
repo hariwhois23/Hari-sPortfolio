@@ -1,20 +1,20 @@
 {
-    "profilePic": {
-      "source": "images/HomePaageImg.png",
-      "width": 200,
-      "height": 200,
-      "border-radius": 50,
-      "object-fit": "cover",
-      "margin-bottom": 20
-    },
-    "name": "Saurabh Patel",
-    "roles": [
-      "a Technical Project Manager",
-      "a RF Engineer",
-      "umm...",
-      "now also a Software Developer"
-    ],
-    "paragraph": [
-      "A seasoned professional with 6 years of experience in the telecom field, now transitioning into software development. I bring project-based experience in web technologies, databases, and API development. Proficient in Python and Java, I have a knack for problem-solving and a strong understanding of Agile methodologies and Git version control. My telecom background adds a unique perspective to my software development skills."
-    ]
-  }
+  "profilePic": {
+    "source": "public/images/Hari-Profile.jpg",
+    "width": 200,
+    "height": 200,
+    "border-radius": 50,
+    "object-fit": "cover",
+    "margin-bottom": 20
+  },
+  "name": "Hari Prasath",
+  "roles": [
+    "a Cloud Engineer",
+    "also a DevOps enthusiast",
+    "umm...",
+    " a Tifosi "
+  ],
+  "paragraph": [
+    "Myself a Cloud wrangler, DevOps tinkerer, and code whisperer on a mission to automate everything. Equipped with solid knowledge of cloud platforms, CI/CD pipelines, and automation tools. Passionate about innovation, collaboration, and ensuring my scripts are as strong as my squats. Always learning, always improving, because in tech (and in the gym), stagnation is not an option!"
+  ]
+}
