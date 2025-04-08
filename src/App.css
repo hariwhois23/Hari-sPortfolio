@@ -185,29 +185,7 @@ body{
  }
 
 
- /* .contact-container {
- display: inline-flex;
- margin: 30px 0;
- }
- .contact-form {
- width: 100%;
- margin-right: 40px;
- display: flex;
- flex-direction: column;
- justify-content: center;
- align-items: center;
- }
- .contact-links a{
- padding-right: 10px;
- }
- .contact-form input, textarea, select {
- width: 100%;
- padding: 10px;
- margin-bottom: 10px;
- border: 1px solid #ccc;
- border-radius: 5px;
- box-sizing: border-box;
- } */
+
  .contact-container {
   display: inline-flex;
   margin: 30px 0;
